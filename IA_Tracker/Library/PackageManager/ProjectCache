@@ -20,7 +20,7 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/manhk/OneDrive/Desktop/IATrackerCrossPlatform/IA_Tracker/Packages
-m_EditorVersion: 2021.1.13f1 (a03098edbbe0)
+m_EditorVersion: 2021.1.9f1 (7a790e367ab3)
 m_ResolvedPackages:
 - packageId: com.unity.2d.animation@6.0.3
   testable: 0
@@ -846,6 +846,7 @@ m_ResolvedPackages:
     - 3.0.6
     - 3.0.7
     compatible:
+    - 3.0.6
     - 3.0.7
     verified: 3.0.7
   dependencies:
@@ -876,7 +877,7 @@ m_ResolvedPackages:
     revision: 3007c42a679bbe2c082c276e8d79279110964553
     path: 
   unityLifecycle:
-    version: 3.0.7
+    version: 3.0.6
     nextVersion: 
 - packageId: com.unity.ide.visualstudio@2.0.9
   testable: 0
@@ -916,6 +917,7 @@ m_ResolvedPackages:
     - 2.0.9
     - 2.0.11
     compatible:
+    - 2.0.8
     - 2.0.9
     - 2.0.11
     verified: 2.0.11
@@ -953,7 +955,7 @@ m_ResolvedPackages:
     revision: c7cd4c6319806423b3d918b3e9599244e3993d41
     path: 
   unityLifecycle:
-    version: 2.0.9
+    version: 2.0.8
     nextVersion: 
 - packageId: com.unity.ide.vscode@1.2.3
   testable: 0
@@ -1068,6 +1070,7 @@ m_ResolvedPackages:
     - 1.1.26
     - 1.1.27
     compatible:
+    - 1.1.24
     - 1.1.26
     - 1.1.27
     verified: 1.1.27
@@ -1109,7 +1112,7 @@ m_ResolvedPackages:
     revision: ea9d07e64e6d63c4f2fd8b6bc57df0f452ff4fae
     path: 
   unityLifecycle:
-    version: 1.1.26
+    version: 1.1.24
     nextVersion: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
