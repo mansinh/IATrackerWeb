@@ -57,6 +57,8 @@
     <Compile Include="Assets\Scripts\ScreenMainMenu.cs" />
     <Compile Include="Assets\Scripts\ScreenCharacter.cs" />
     <Compile Include="Assets\Scripts\Functions.cs" />
+    <Compile Include="Assets\Scripts\Character.cs" />
+    <Compile Include="Assets\Scripts\CounterButton.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -1,0 +1,1519 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-07-20T13:27:52.381+12:00
+  initializedAtString: 2021-07-20T11:35:12.683+12:00
+  entries:
+  - path: IA_Tracker\.vs\IA_Tracker\v15\.suo
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\.vs\IA_Tracker\v15\.suo
+    projectPath: .vs\IA_Tracker\v15\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\.vs\IA_Tracker\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\.vs\IA_Tracker\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\IA_Tracker\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\.vs\IA_Tracker\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\.vs\IA_Tracker\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\IA_Tracker\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\.vs\IA_Tracker\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\.vs\IA_Tracker\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\IA_Tracker\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Assembly-CSharp.csproj
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Scripts\Character.cs
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Scripts\Character.cs
+    projectPath: Assets\Scripts\Character.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Scripts\Character.cs.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Scripts\Character.cs.meta
+    projectPath: Assets\Scripts\Character.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Scripts\CounterButton.cs
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Scripts\CounterButton.cs
+    projectPath: Assets\Scripts\CounterButton.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Scripts\CounterButton.cs.meta
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Scripts\CounterButton.cs.meta
+    projectPath: Assets\Scripts\CounterButton.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Assets\Scripts\Functions.cs
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Scripts\Functions.cs
+    projectPath: Assets\Scripts\Functions.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Assets\Scripts\ScreenCharacter.cs
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Assets\Scripts\ScreenCharacter.cs
+    projectPath: Assets\Scripts\ScreenCharacter.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\IA_Tracker.sln
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\IA_Tracker.sln
+    projectPath: IA_Tracker.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\ArtifactDB
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Artifacts\02\02e01de2002b90b6568f19b3a0afeb4f
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\02\02e01de2002b90b6568f19b3a0afeb4f
+    projectPath: Library\Artifacts\02\02e01de2002b90b6568f19b3a0afeb4f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    projectPath: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    projectPath: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\0c\0cf3fce2a76491485a393e509a1847d2
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\0c\0cf3fce2a76491485a393e509a1847d2
+    projectPath: Library\Artifacts\0c\0cf3fce2a76491485a393e509a1847d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\10\1084fe80d03ce6a64466bf8bfdeb8b53
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\10\1084fe80d03ce6a64466bf8bfdeb8b53
+    projectPath: Library\Artifacts\10\1084fe80d03ce6a64466bf8bfdeb8b53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\15\1591dadd48014c9cf126a0cffd774f27
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\15\1591dadd48014c9cf126a0cffd774f27
+    projectPath: Library\Artifacts\15\1591dadd48014c9cf126a0cffd774f27
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\16\165184c3a4b082c8ec72060c54613049
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\16\165184c3a4b082c8ec72060c54613049
+    projectPath: Library\Artifacts\16\165184c3a4b082c8ec72060c54613049
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\16\16967b9cb4d20e4cf87ce9211e4d0091
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\16\16967b9cb4d20e4cf87ce9211e4d0091
+    projectPath: Library\Artifacts\16\16967b9cb4d20e4cf87ce9211e4d0091
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\1b\1b3215993ac626ac701ba39a44803f6a
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\1b\1b3215993ac626ac701ba39a44803f6a
+    projectPath: Library\Artifacts\1b\1b3215993ac626ac701ba39a44803f6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\1c\1c53921ae60dc4f1c9f9943fb03fab28
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\1c\1c53921ae60dc4f1c9f9943fb03fab28
+    projectPath: Library\Artifacts\1c\1c53921ae60dc4f1c9f9943fb03fab28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\26\265b165ad229b98ade8b462b5ebfd8c5
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\26\265b165ad229b98ade8b462b5ebfd8c5
+    projectPath: Library\Artifacts\26\265b165ad229b98ade8b462b5ebfd8c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\2a\2ae4abc83c115637080bc7ce8cd2c891
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\2a\2ae4abc83c115637080bc7ce8cd2c891
+    projectPath: Library\Artifacts\2a\2ae4abc83c115637080bc7ce8cd2c891
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\38\38d8abcf6c4e98bfb6d16025b74234da
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\38\38d8abcf6c4e98bfb6d16025b74234da
+    projectPath: Library\Artifacts\38\38d8abcf6c4e98bfb6d16025b74234da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\46\46aa215911a1f09e90058248f94b3b17
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\46\46aa215911a1f09e90058248f94b3b17
+    projectPath: Library\Artifacts\46\46aa215911a1f09e90058248f94b3b17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
+    projectPath: Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\4e\4e5641224d981c53dbfdcec91a7588f7
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\4e\4e5641224d981c53dbfdcec91a7588f7
+    projectPath: Library\Artifacts\4e\4e5641224d981c53dbfdcec91a7588f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
+    projectPath: Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\50\50de6d3841d9ab28f2f4426e0b052aee
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\50\50de6d3841d9ab28f2f4426e0b052aee
+    projectPath: Library\Artifacts\50\50de6d3841d9ab28f2f4426e0b052aee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\53\53c9deda474f73b2a585e271a614ba77
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\53\53c9deda474f73b2a585e271a614ba77
+    projectPath: Library\Artifacts\53\53c9deda474f73b2a585e271a614ba77
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\56\567b7bc2f7d0a08c573689607364fca9
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\56\567b7bc2f7d0a08c573689607364fca9
+    projectPath: Library\Artifacts\56\567b7bc2f7d0a08c573689607364fca9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\58\58a05023716a6e264f0b13a2654485ba
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\58\58a05023716a6e264f0b13a2654485ba
+    projectPath: Library\Artifacts\58\58a05023716a6e264f0b13a2654485ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\59\59d20a68bf45cbb7014cedf80b397f95
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\59\59d20a68bf45cbb7014cedf80b397f95
+    projectPath: Library\Artifacts\59\59d20a68bf45cbb7014cedf80b397f95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\5a\5addaa93faca955a85ed6f6a787b3e34
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\5a\5addaa93faca955a85ed6f6a787b3e34
+    projectPath: Library\Artifacts\5a\5addaa93faca955a85ed6f6a787b3e34
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\5c\5c36a979dcba1ef83d116ab57bbd51d6
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\5c\5c36a979dcba1ef83d116ab57bbd51d6
+    projectPath: Library\Artifacts\5c\5c36a979dcba1ef83d116ab57bbd51d6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\5f\5f36448c20cbd667c4a3374227e2e2cf
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\5f\5f36448c20cbd667c4a3374227e2e2cf
+    projectPath: Library\Artifacts\5f\5f36448c20cbd667c4a3374227e2e2cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    projectPath: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    projectPath: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\67\67a967ba5aba896a666e6dc05675f738
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\67\67a967ba5aba896a666e6dc05675f738
+    projectPath: Library\Artifacts\67\67a967ba5aba896a666e6dc05675f738
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\69\6982f1a723c10cf0dd05bcada335b2ae
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\69\6982f1a723c10cf0dd05bcada335b2ae
+    projectPath: Library\Artifacts\69\6982f1a723c10cf0dd05bcada335b2ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\6a\6ae2f543a2fd9746d59a5dab1f09bd6a
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\6a\6ae2f543a2fd9746d59a5dab1f09bd6a
+    projectPath: Library\Artifacts\6a\6ae2f543a2fd9746d59a5dab1f09bd6a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\6d\6d3fd1f4f846d40151be49a86843370b
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\6d\6d3fd1f4f846d40151be49a86843370b
+    projectPath: Library\Artifacts\6d\6d3fd1f4f846d40151be49a86843370b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\6e\6edd93999ba2f400aba9cda3609a513b
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\6e\6edd93999ba2f400aba9cda3609a513b
+    projectPath: Library\Artifacts\6e\6edd93999ba2f400aba9cda3609a513b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    projectPath: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\7a\7a5def13aeea54f530daae396676e5e1
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\7a\7a5def13aeea54f530daae396676e5e1
+    projectPath: Library\Artifacts\7a\7a5def13aeea54f530daae396676e5e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\7b\7b240f6424834a071364832533861918
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\7b\7b240f6424834a071364832533861918
+    projectPath: Library\Artifacts\7b\7b240f6424834a071364832533861918
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\7b\7b714105ef2bd8c1476dfd58b0ce9f8b
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\7b\7b714105ef2bd8c1476dfd58b0ce9f8b
+    projectPath: Library\Artifacts\7b\7b714105ef2bd8c1476dfd58b0ce9f8b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\7c\7c835f1497fcfccbbf439366d4057e65
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\7c\7c835f1497fcfccbbf439366d4057e65
+    projectPath: Library\Artifacts\7c\7c835f1497fcfccbbf439366d4057e65
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    projectPath: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\81\818e1170f50fff2dd5948f244d297138
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\81\818e1170f50fff2dd5948f244d297138
+    projectPath: Library\Artifacts\81\818e1170f50fff2dd5948f244d297138
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    projectPath: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\88\889761bebb6ebdf0777aae9fb4c25e80
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\88\889761bebb6ebdf0777aae9fb4c25e80
+    projectPath: Library\Artifacts\88\889761bebb6ebdf0777aae9fb4c25e80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\89\895a910d478430baf9527912df4b158d
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\89\895a910d478430baf9527912df4b158d
+    projectPath: Library\Artifacts\89\895a910d478430baf9527912df4b158d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    projectPath: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\8e\8e6b7e301b013f72ea62cd6b7e02facf
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\8e\8e6b7e301b013f72ea62cd6b7e02facf
+    projectPath: Library\Artifacts\8e\8e6b7e301b013f72ea62cd6b7e02facf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\92\926bbc1d5bccff99dc83adf7eff3ec65
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\92\926bbc1d5bccff99dc83adf7eff3ec65
+    projectPath: Library\Artifacts\92\926bbc1d5bccff99dc83adf7eff3ec65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\99\99fdc4ba0f7ac26f2682032d3c167b2a
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\99\99fdc4ba0f7ac26f2682032d3c167b2a
+    projectPath: Library\Artifacts\99\99fdc4ba0f7ac26f2682032d3c167b2a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\9a\9a3071fff6333f6f28a20b46f12ab6b1
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\9a\9a3071fff6333f6f28a20b46f12ab6b1
+    projectPath: Library\Artifacts\9a\9a3071fff6333f6f28a20b46f12ab6b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    projectPath: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\9f\9f9cd16d6e9cdac016c969636bbb9900
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\9f\9f9cd16d6e9cdac016c969636bbb9900
+    projectPath: Library\Artifacts\9f\9f9cd16d6e9cdac016c969636bbb9900
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\a0\a09ee3c4523502f80c22c602a7203ae1
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\a0\a09ee3c4523502f80c22c602a7203ae1
+    projectPath: Library\Artifacts\a0\a09ee3c4523502f80c22c602a7203ae1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\a1\a1ec63fb48d78dfe934cf77436b3deaa
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\a1\a1ec63fb48d78dfe934cf77436b3deaa
+    projectPath: Library\Artifacts\a1\a1ec63fb48d78dfe934cf77436b3deaa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\a6\a6df69dab4dc41e525ba3bf63642dde0
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\a6\a6df69dab4dc41e525ba3bf63642dde0
+    projectPath: Library\Artifacts\a6\a6df69dab4dc41e525ba3bf63642dde0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\ae\ae3dd95d95c21b7819b17445ffcc98d0
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\ae\ae3dd95d95c21b7819b17445ffcc98d0
+    projectPath: Library\Artifacts\ae\ae3dd95d95c21b7819b17445ffcc98d0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\b3\b3bda20187544ba632399f13663f521d
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\b3\b3bda20187544ba632399f13663f521d
+    projectPath: Library\Artifacts\b3\b3bda20187544ba632399f13663f521d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\b4\b4d95859d61bf728841f47e6adc74b25
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\b4\b4d95859d61bf728841f47e6adc74b25
+    projectPath: Library\Artifacts\b4\b4d95859d61bf728841f47e6adc74b25
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\b6\b6e3f53759a96a308b080048ada99f6f
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\b6\b6e3f53759a96a308b080048ada99f6f
+    projectPath: Library\Artifacts\b6\b6e3f53759a96a308b080048ada99f6f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    projectPath: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\b7\b7e9d66742e168febffd67b832600e44
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\b7\b7e9d66742e168febffd67b832600e44
+    projectPath: Library\Artifacts\b7\b7e9d66742e168febffd67b832600e44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    projectPath: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\c1\c1413ae05f99e8298f8569b74fe67472
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\c1\c1413ae05f99e8298f8569b74fe67472
+    projectPath: Library\Artifacts\c1\c1413ae05f99e8298f8569b74fe67472
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\c1\c1a14aedecb540b0e78189c96fe3a40a
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\c1\c1a14aedecb540b0e78189c96fe3a40a
+    projectPath: Library\Artifacts\c1\c1a14aedecb540b0e78189c96fe3a40a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\c8\c8a6f2162243e446ae25e73409f3e72d
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\c8\c8a6f2162243e446ae25e73409f3e72d
+    projectPath: Library\Artifacts\c8\c8a6f2162243e446ae25e73409f3e72d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    projectPath: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\cb\cbe6750a967fdc92821a9df64bdca8fd
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\cb\cbe6750a967fdc92821a9df64bdca8fd
+    projectPath: Library\Artifacts\cb\cbe6750a967fdc92821a9df64bdca8fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    projectPath: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\cf\cf8c666a43d38e7df8b8c6f4849c75c4
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\cf\cf8c666a43d38e7df8b8c6f4849c75c4
+    projectPath: Library\Artifacts\cf\cf8c666a43d38e7df8b8c6f4849c75c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    projectPath: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\d2\d275e3e8cbe74816960174bd19b8f61f
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\d2\d275e3e8cbe74816960174bd19b8f61f
+    projectPath: Library\Artifacts\d2\d275e3e8cbe74816960174bd19b8f61f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    projectPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\db\db3c301fa2dcd9f1e1e32a170f6cfbc8
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\db\db3c301fa2dcd9f1e1e32a170f6cfbc8
+    projectPath: Library\Artifacts\db\db3c301fa2dcd9f1e1e32a170f6cfbc8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    projectPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\e7\e7cf56f6391fba4d3107e9fa5299bd4e
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\e7\e7cf56f6391fba4d3107e9fa5299bd4e
+    projectPath: Library\Artifacts\e7\e7cf56f6391fba4d3107e9fa5299bd4e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\e8\e82868a74d14b35f5c492919a7bca6df
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\e8\e82868a74d14b35f5c492919a7bca6df
+    projectPath: Library\Artifacts\e8\e82868a74d14b35f5c492919a7bca6df
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    projectPath: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\f4\f496fd86602ca246b018d7aed6d7e0e5
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\f4\f496fd86602ca246b018d7aed6d7e0e5
+    projectPath: Library\Artifacts\f4\f496fd86602ca246b018d7aed6d7e0e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\f6\f6cd5e900d302a7048034c4911351e3a
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\f6\f6cd5e900d302a7048034c4911351e3a
+    projectPath: Library\Artifacts\f6\f6cd5e900d302a7048034c4911351e3a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: IA_Tracker\Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    projectPath: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    projectPath: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Bee\1300b0aE.dag
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\1300b0aE.dag
+    projectPath: Library\Bee\1300b0aE.dag
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\1300b0aE.dag.json
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\1300b0aE.dag.json
+    projectPath: Library\Bee\1300b0aE.dag.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\1300b0aE.dag.outputdata
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\1300b0aE.dag.outputdata
+    projectPath: Library\Bee\1300b0aE.dag.outputdata
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\1300b0aE.dag_derived
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\1300b0aE.dag_derived
+    projectPath: Library\Bee\1300b0aE.dag_derived
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\1300b0aE.dag_fsmtime
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\1300b0aE.dag_fsmtime
+    projectPath: Library\Bee\1300b0aE.dag_fsmtime
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\1300b0aE-inputdata.json
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\1300b0aE-inputdata.json
+    projectPath: Library\Bee\1300b0aE-inputdata.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.dll
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.pdb
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.pdb
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.ref.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.ref.dll
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.ref.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\PsdPlugin.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\PsdPlugin.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\PsdPlugin.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Animation.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Animation.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Animation.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Animation.Runtime.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Animation.Runtime.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Animation.Runtime.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Animation.Triangle.Runtime.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Animation.Triangle.Runtime.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Animation.Triangle.Runtime.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Common.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Common.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Common.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Common.Runtime.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Common.Runtime.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Common.Runtime.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.IK.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.IK.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.IK.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.IK.Runtime.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.IK.Runtime.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.IK.Runtime.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Path.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Path.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Path.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.PixelPerfect.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.PixelPerfect.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.PixelPerfect.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.PixelPerfect.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.PixelPerfect.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.PixelPerfect.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Psdimporter.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Psdimporter.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Psdimporter.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Sprite.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Sprite.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Sprite.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.SpriteShape.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.SpriteShape.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.SpriteShape.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.SpriteShape.Runtime.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.SpriteShape.Runtime.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.SpriteShape.Runtime.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Tilemap.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Tilemap.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Tilemap.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Tilemap.Extras.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Tilemap.Extras.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Tilemap.Extras.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Tilemap.Extras.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Tilemap.Extras.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.2D.Tilemap.Extras.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.CollabProxy.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.CollabProxy.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.CollabProxy.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.InternalAPIEditorBridge.001.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.InternalAPIEditorBridge.001.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.InternalAPIEditorBridge.001.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.InternalAPIEngineBridge.001.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.InternalAPIEngineBridge.001.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.InternalAPIEngineBridge.001.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.Mathematics.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.Mathematics.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.Mathematics.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.Mathematics.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.Mathematics.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.Mathematics.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.TextMeshPro.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.TextMeshPro.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.TextMeshPro.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.Timeline.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.Timeline.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.Timeline.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.Timeline.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.Timeline.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.Timeline.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Core.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Core.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Core.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Core.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Flow.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Flow.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Flow.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.Flow.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.State.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.State.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.State.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.State.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.State.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.VisualScripting.State.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VSCode.Editor.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\Unity.VSCode.Editor.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\Unity.VSCode.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\UnityEditor.UI.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\UnityEditor.UI.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\UnityEditor.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\UnityEngine.UI.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\UnityEngine.UI.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\UnityEngine.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\VSSettingsProvider.rsp
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\artifacts\1300b0aE.dag\VSSettingsProvider.rsp
+    projectPath: Library\Bee\artifacts\1300b0aE.dag\VSSettingsProvider.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\profiler.json
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\profiler.json
+    projectPath: Library\Bee\profiler.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\tundra.digestcache
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\tundra.digestcache
+    projectPath: Library\Bee\tundra.digestcache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\tundra.log.json
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\tundra.log.json
+    projectPath: Library\Bee\tundra.log.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\TundraBuildState.state
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\TundraBuildState.state
+    projectPath: Library\Bee\TundraBuildState.state
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\Bee\TundraBuildState.state.map
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Bee\TundraBuildState.state.map
+    projectPath: Library\Bee\TundraBuildState.state.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\EditorInstance.json
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Library\Search\transactions.db
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\Search\transactions.db
+    projectPath: Library\Search\transactions.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\SourceAssetDB
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\SpriteAtlasDatabase.asset
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\SpriteAtlasDatabase.asset
+    projectPath: Library\SpriteAtlasDatabase.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Library\StateCache\MainStageHierarchy\7d\7df982b89ab0ac7fd3b6661514ce7dff.json
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Library\StateCache\MainStageHierarchy\7d\7df982b89ab0ac7fd3b6661514ce7dff.json
+    projectPath: Library\StateCache\MainStageHierarchy\7d\7df982b89ab0ac7fd3b6661514ce7dff.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Logs\AssetImportWorker1.log
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Logs\AssetImportWorker1.log
+    projectPath: Logs\AssetImportWorker1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Logs\AssetImportWorker2.log
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Logs\AssetImportWorker2.log
+    projectPath: Logs\AssetImportWorker2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: IA_Tracker\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Temp\UnityLockfile
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Temp\UnityVS\Visual Studio 2017 Tools.unitypackage
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Temp\UnityVS\Visual
+      Studio 2017 Tools.unitypackage
+    projectPath: Temp\UnityVS\Visual Studio 2017 Tools.unitypackage
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: IA_Tracker\Temp\workerlic
+    fullPath: C:\Users\manhk\OneDrive\Desktop\IATrackerCrossPlatform\IA_Tracker\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

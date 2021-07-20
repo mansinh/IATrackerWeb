@@ -344,6 +344,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Scripts/Character.cs"
+"Assets/Scripts/CounterButton.cs"
 "Assets/Scripts/Functions.cs"
 "Assets/Scripts/ScreenCharacter.cs"
 "Assets/Scripts/ScreenCharacterSelect.cs"

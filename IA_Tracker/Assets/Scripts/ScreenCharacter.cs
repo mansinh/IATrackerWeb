@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class ScreenCharacter : MonoBehaviour
 {
+    Character character;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        character = new Character();
     }
 
     // Update is called once per frame
@@ -19,11 +21,13 @@ public class ScreenCharacter : MonoBehaviour
     public void onDamageButton()
     {
         print("damage");
+        character.AddDamage();
     }
 
     public void onStrainButton()
     {
         print("strain");
+        character.AddStrain();
     }
 
     public void onConditionButton()
