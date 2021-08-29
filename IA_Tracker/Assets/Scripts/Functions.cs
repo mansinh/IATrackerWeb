@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public static class Functions
+public static class Functions 
 {
     public static Sprite[] GetSprites(string path)
     {
@@ -15,24 +15,63 @@ public static class Functions
 
     public static IEnumerator FadeOut(Image image, float duration)
     {
-        float initialAlpha = image.color.a;
+        Color c = image.color;
+
         // fade from opaque to transparent
-        for (float i = initialAlpha; i >= 0; i -= Time.deltaTime / duration)
+        for (float i = c.a; i >= 0; i -= Time.deltaTime / duration)
         {
-            image.color = new Color(1, 1, 1, i);
+            c.a = i;
+            image.color = c;
             yield return null;
         }
-        image.color = new Color(1, 1, 1, 0);
+        c.a = 0;
+        image.color = c;
+        image.gameObject.SetActive(false);
     }
     public static IEnumerator FadeIn(Image image, float duration)
     {
-        float initialAlpha = image.color.a;
+        image.gameObject.SetActive(true);
+        Color c = image.color;
         // fade from transparent to opaque
-        for (float i = initialAlpha; i <= 1; i += Time.deltaTime / duration)
+        for (float i = c.a; i <= 1; i += Time.deltaTime / duration)
         {
-            image.color = new Color(1, 1, 1, i);
+            c.a = i;
+            image.color = c;
             yield return null;
         }
-        image.color = new Color(1, 1, 1, 1);
+        c.a = 1;
+        image.color = c;
+    }
+
+    public static IEnumerator SlideIn(Transform t, float duration, float offset)
+    {
+        Vector3 p = t.position;
+        Vector3 end = new Vector3(p.x, p.y, p.z);
+        Vector3 start = new Vector3(offset, p.y, p.z);
+
+
+        for (float i = 0; i <= 1; i += Time.deltaTime / duration)
+        {
+            t.position = Vector3.Lerp(start, end, i);
+            yield return null;
+        }
+        t.position = end;
+    }
+    public static IEnumerator Shake(Transform t, float duration, float offset, float delay)
+    {
+        Vector3 p = t.position;
+
+        for (float i = 0; i <= 1; i += Time.deltaTime / delay)
+        {
+            yield return null;
+        }
+
+        for (float i = 0; i <= 1; i += Time.deltaTime / duration)
+        {
+
+            t.position = p + (Vector3)Random.insideUnitCircle*offset;
+            yield return null;
+        }
+        t.position = p;
     }
 }

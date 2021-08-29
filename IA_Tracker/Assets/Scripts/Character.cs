@@ -3,17 +3,7 @@ using System.Collections.Generic;
 
 public class Character 
 {
-    int damage;
-    int strain;
-
-    public int AddDamage() {
-        damage++;
-        return damage;  
-    }
-
-    public int AddStrain()
-    {
-        strain++;
-        return strain;
-    }
+    public int damage;
+    public int strain;
+    
 }
